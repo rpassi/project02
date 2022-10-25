@@ -4,12 +4,12 @@
   
  
  ## Graphs 
- * Plot 1 `.json` (Title in graph- Temperature vs. Year)
+ * Plot 1 `.json` (Title in graph- **Temperature vs. Year**)
  <img width="631" alt="Screen Shot 2022-10-24 at 3 01 28 PM" src="https://user-images.githubusercontent.com/112538914/197669519-c17d93ec-1a52-4e7e-97a6-181a6940b9c8.png">
  
  This graph plots the average global temperature from 1880-2015 versus the average global temperature from 1901-2000. The data,[Global Temperature Anamoly](https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json), comes from the National Centers for Environmental Information. The linegraph is interesting to see the increase in average global temperatures over time. 
  
-  * Plot 2 `.csv`(Title in graph- Olympic Height of Males and Females by Year)
+  * Plot 2 `.csv`(Title in graph- **Olympic Height of Males and Females by Year**)
  
  <img width="781" alt="Screen Shot 2022-10-24 at 4 13 02 PM" src="https://user-images.githubusercontent.com/112538914/197669626-9b8cb01a-6c46-432a-a634-6d9037f1b66c.png">
 
